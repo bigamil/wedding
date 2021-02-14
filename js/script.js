@@ -505,7 +505,7 @@
             autoplay: true,
             autoplayTimeout: 3000,
             smartSpeed: 1000,
-            loop: true,
+            loop: false,
             margin: 20,
             stagePadding: 10,
             responsive: {
