@@ -510,7 +510,8 @@
             stagePadding: 10,
             responsive: {
                 0 : {
-                    items: 1
+                    items: 1,
+                    nav: true
                 },
                 480 : {
                     items: 2
